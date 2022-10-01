@@ -1,0 +1,43 @@
+body {
+    background-color: grey;
+    font-size: large;
+    box-sizing: border-box;
+}
+
+header {
+    font-size: 25pt;
+    text-align: center;
+}
+
+#startbtm {
+    font-weight: bold;
+    font-size: 19pt;
+    margin: 5px;
+    padding: 5px;
+    width: 200px;
+    height: 100px;
+}
+
+#instruction {
+    font-size: 30pt;
+    text-align: center;
+}
+
+#score ul {
+    display: block;
+    position: absolute;
+    position: bottom;
+    font-size: 30pt;
+    list-style-type: none;
+}
+
+#hangMan {
+    display: block;
+    align-self: center;
+    text-align: center;
+    font-size: 45pt;
+    width: auto;
+    height: 50pt;
+    margin-top: 10pt;
+    margin-bottom: 10pt;
+}
